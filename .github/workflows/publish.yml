@@ -3,7 +3,7 @@ name: publish-to-github-pages
 on:
   push:
     branches:
-      - main
+      - feature/add-github-workflow
 
 permissions:
   contents: read
